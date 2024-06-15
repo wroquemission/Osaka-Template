@@ -1,0 +1,7 @@
+sudo -HE npm run dist-all
+
+rm -rf c:/Users/2016702-OPC4/Downloads/Dist
+mkdir c:/Users/2016702-OPC4/Downloads/Dist
+
+zip c:/Users/2016702-OPC4/Downloads/Dist/osaka-template-mac.zip dist/Mega\ Paysage\ Digest-*.dmg
+zip c:/Users/2016702-OPC4/Downloads/Dist/osaka-template-windows.zip dist/Mega\ Paysage\ Digest\ Setup*.exe

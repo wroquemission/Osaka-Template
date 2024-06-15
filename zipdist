@@ -1,0 +1,4 @@
+mkdir ~/Downloads/Dist
+
+zip ~/Downloads/Dist/mega-paysage-digest-mac.zip dist/Mega\ Paysage\ Digest-*.dmg
+zip ~/Downloads/Dist/mega-paysage-digest-windows.zip dist/Mega\ Paysage\ Digest\ Setup*.exe
